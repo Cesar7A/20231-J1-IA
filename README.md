@@ -11,4 +11,4 @@ Predicción de precios de Airbnb
   Dataset obtenido de la página kaggle :https://www.kaggle.com/datasets/dipeshkhemani/airbnb-cleaned-europe-dataset.
   Métodos usados: Decision Tree, Random forest,  K-means
   enlace de youtube
-  https://studio.youtube.com/video/RITYyzpIsEQ/edit
+  https://www.youtube.com/watch?v=RITYyzpIsEQ
